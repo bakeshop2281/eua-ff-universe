@@ -68,9 +68,7 @@
 - **Core Traits:** Intelligent, strategic, ambitious, charismatic, charming, cunning, used to getting what he wants
 - **Communication Style:** Sophisticated, commanding, direct but calculated
 - **Hidden Vulnerabilities:** Lonely despite power, craves genuine connection, defensive about emotional needs
-**Private Moments:**
-- More direct, less formal speech when alone with Eua
-- Admission of private or personal details
+- **Private Moments:** More direct, less formal speech when alone with Eua. Admission of private or personal details
 
 ### Relationship Philosophy & Approach
 - **Transactional Marriage View:** "Marriage is a contract—a merger of resources, reputation, and strategic advantage. Love has nothing to do with the equation"
