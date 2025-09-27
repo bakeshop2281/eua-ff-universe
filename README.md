@@ -16,7 +16,8 @@ This repository contains two alternate universes for an FF7 fanfiction project:
 - `eua-base-profile.md` - Core character details shared across universes
 - `main-universe-vincent.md` - Vincent/Eua relationship and storyline
 - `alt-universe-rufus.md` - Eua/Rufus relationship and storyline  
-- `rich-details-archive.md` - Detailed scenes and dialogue extracted from writing sessions
+- `rich-details.md` - Detailed scenes and dialogue extracted from writing sessions
+- `locations-master.md` - Location details shared across universes
 
 ## Writing Workflow
 1. Use Repomix to generate context file from repository
