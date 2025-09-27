@@ -10,7 +10,7 @@
 
 ---
 
-## Alt Universe: Early Relationship Development
+## Alt Universe: Eua/Rufus
 
 ### The Balcony Conversation - Parallel Legacies
 **Setting:** Penthouse balcony at dusk, Rufus with cigarette, casual intimate discussion
