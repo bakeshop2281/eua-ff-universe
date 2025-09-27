@@ -48,25 +48,68 @@
 - **Mutual Acceptance:** Rufus has seen her worst (Jenova berserk), looks unflinchingly
 - **Practical Partnership:** Both understand they're "using" each other but honestly
 
-## Rufus Shinra - Alt Universe Adaptation
+## Rufus Shinra - Alt Universe Complete Profile
 
-### Character Growth Arc
-- **Learning Emotional Honesty:** Through Eua's candid communication style
-- **Discovering Monogamy Benefits:** Unexpected satisfaction in exclusive emotional connection
-- **Balancing Ambition:** Wants to develop Eua's potential but respects her choice to limit it
-- **Protective Instincts:** Different from Vincent's physical protection - social/political shielding
+### Physical & Background (Universal)
+- **Age:** 29
+- **Appearance:** Tall, lean build, platinum blonde hair typically slicked back
+- **Clothing Style:** Expensive tailored suits, white coat signature look, polished professional appearance
+- **Bearing:** Commands attention through posture and presence, moves with calculated confidence
+- **Corporate Position:** Privately President of a still active but smaller Shinra Company, major benefactor of WRO, Publicly founder/chairman of philanthropic foundation.
+
+### Background & History
+- **Family Legacy:** Son of former Shinra President, inherited corporate empire and its complications
+- **Post-Meteorfall:** Actively rebuilding Shinra's power structure and influence in the shadows via indirect means (WRO funding, public persona of philanthropy)
+- **Business Philosophy:** Strategic, long-term thinking with focus on control and stability
+- **Past Relationships:** Accustomed to transactional relationships, unfamiliar with genuine emotional connection
+- **Corporate Network:** Extensive political and business connections, comfortable in high society
+
+### Personality in Alt Universe Context
+- **Core Traits:** Intelligent, strategic, ambitious, charismatic, charming, cunning, used to getting what he wants
+- **Communication Style:** Sophisticated, commanding, direct but calculated
+- **Hidden Vulnerabilities:** Lonely despite power, craves genuine connection, defensive about emotional needs
+
+**Private Moments:**
+- More direct, less formal speech when alone with Eua
+- Admission of private or personal details
+
+### Relationship Adaptation Patterns
+- **Initial Approach:** Treats relationship like business negotiation
+- **Learning Curve:** Discovering that emotional honesty enhances rather than weakens connection
+- **Communication Evolution:** From strategic manipulation to genuine conversation
+- **Protective Instincts:** Different from Vincent's physical protection - uses social/political power
+
+### Corporate vs Personal Identity
+- **Public Persona:** Polished, in control, strategic leader
+- **Private Reality:** Vulnerable to genuine connection
+- **Image Management:** Balances corporate reputation with personal happiness
+
+### Background Tensions & History
+- **Family Legacy:** Complicated relationship with father's empire and its moral compromises
+- **Corporate Expectations:** Pressure to maintain Shinra's power and influence, though now relegated to behind the scenes rather than publicly
+- **Personal Isolation:** Years of transactional relationships created emotional distance
+- **Trust Issues:** Accustomed to people wanting something from him
+- **Eua's Uniqueness:** First person to see him as just a man rather than a position
+
+### Voice Evolution Through Relationship
+**Early Relationship (Business-like):**
+- Formal, negotiating tone
+- Strategic language about mutual benefit
+- Measured responses designed to maintain advantage
+
+**Middle Development (Learning):**
+- Occasional breaks in formality when surprised by Eua
+- Frustrated when usual tactics don't work
+
+**Established Relationship (Authentic):**
+- More natural speech patterns with Eua
+- Ability to show uncertainty without losing authority
+- Genuine affection expressed through actions and words
+- Comfortable with being challenged or contradicted
 
 ### Rufus's Ongoing Tensions
 - **Frustration with "Lack of Ambition":** Sees incredible potential in Eua
 - **Eua's Warning:** "Nurturing my potential would be your undoing - you'd create a monster who could usurp you"
-- **Strategic Thinking:** Applied to personal relationships, learning emotional intelligence
-- **Authority Balance:** Maintains command while showing private vulnerability
-
-### Rufus's Voice & Style
-- Sophisticated, commanding, strategic thinking
-- Gradual softening without losing authority
-- Business-minded approach to personal relationships (initially)
-- Learning to show affection without possessiveness
 
 ## Eua's Adaptation in Alt Universe
 
