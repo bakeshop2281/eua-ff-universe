@@ -17,7 +17,7 @@
 
 **Key Exchange - Ideal Wife Discussion:**
 - **Rufus:** "Tall. Elegant build—think runway model proportions... highly educated... looks stunning on my arm at every function... can't be bribed, blackmailed, kidnapped... Fertile."
-- **Eua:** "But you wouldn't love her. You asked for my ideal wife. Marriage is a contract. Love has nothing to do with the equation."
+- **Eua:** "But you wouldn't love her." **Rufus:** "You asked for my ideal wife. Marriage is a contract. Love has nothing to do with the equation."
 
 **Character Revelation - Eua's Origins:**
 - **Eua:** "Did you forget what I am? I was raised with a singular purpose—one that didn't exactly include a white picket fence and Sunday dinners with the in-laws. Hojo's project timelines were pretty comprehensive, but I don't think 'falls in love and settles down' made it onto any of his research protocols."
@@ -27,7 +27,7 @@
 - **Eua:** "The heir of Shinra and the heir of Jenova, making a thoroughly practical arrangement because neither of us knows what we're supposed to be now."
 
 ### The Kitchen Seduction - Boundaries Under Fire
-**Setting:** Late night kitchen, Eua in nightshirt on counter, Rufus between her legs
+**Setting:** Late night kitchen, Eua in nightgown on counter, Rufus between her legs
 
 **Rufus's Seduction Technique:**
 - **Systematic Observation:** "You know what I've learned about you? Whenever I do this—" [kisses neck] "your body responds right here." [touches breast]
@@ -62,7 +62,7 @@
 
 **Rufus - Seduction Mode:**
 - "I can feel how much you want this. Your pulse is racing, you're trembling, and you're so warm I can feel it through your clothes."
-- "I prefer 'thorough.'" [when called diabolical]
+- "I've been called worse." [when called diabolical]
 
 **Rufus - Philosophical:**
 - "Love makes people unpredictable. Unpredictable people make poor business partners."
