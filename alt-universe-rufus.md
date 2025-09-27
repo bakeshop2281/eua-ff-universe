@@ -68,10 +68,22 @@
 - **Core Traits:** Intelligent, strategic, ambitious, charismatic, charming, cunning, used to getting what he wants
 - **Communication Style:** Sophisticated, commanding, direct but calculated
 - **Hidden Vulnerabilities:** Lonely despite power, craves genuine connection, defensive about emotional needs
-
 **Private Moments:**
 - More direct, less formal speech when alone with Eua
 - Admission of private or personal details
+
+### Relationship Philosophy & Approach
+- **Transactional Marriage View:** "Marriage is a contract—a merger of resources, reputation, and strategic advantage. Love has nothing to do with the equation"
+- **Systematic Seduction Style:** Mirrors business strategy—methodical, patient, exploiting weaknesses through careful observation
+- **Clinical Intimacy:** Catalogs partner's responses with scientific precision ("I've learned about you...")
+- **Strategic Patience:** Works within established boundaries rather than forcing past them
+- **Confident Certainty:** Maintains unwavering belief in eventual success ("For now")
+
+### Shared Legacy Recognition
+- **Parallel Purposes:** Both designed for specific roles—him as Shinra heir, her as Project Mother
+- **Mutual Understanding:** Both "trying to figure out who they are when no one's telling them anymore"
+- **Experience with Being Used:** Creates foundation for honest relationship without pretense
+- **Practical Compatibility:** Shared background makes contractual arrangement feel more authentic than romantic idealism
 
 ### Relationship Adaptation Patterns
 - **Initial Approach:** Treats relationship like business negotiation
@@ -156,6 +168,13 @@
 - **Emotional Foundation:** Discovering that connection enhances physical attraction
 - **Healing Element:** Eua processing Vincent rejection through Rufus's consistent acceptance
 - **Monogamy Satisfaction:** Rufus learning exclusive commitment benefits
+
+### Physical Intimacy Development Patterns
+- **Systematic Approach:** Rufus studies Eua's responses and adapts tactics accordingly
+- **Increasing Effectiveness:** Seduction attempts become more successful over time
+- **Boundary Respect:** Works within her rules while finding every loophole
+- **Sexual Tension Building:** Power dynamic of pursuit vs. resistance creates sustainable attraction
+- **Clinical Yet Heated:** Combines analytical observation with genuine desire
 
 ## Key Scene Ideas for Writing
 
