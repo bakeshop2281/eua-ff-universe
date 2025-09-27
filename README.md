@@ -8,7 +8,7 @@ This repository contains two alternate universes for an FF7 fanfiction project:
 
 ## World Setting
 - Post-Advent Children, Geostigma resolved
-- Rufus rebuilding Shinra, WRO active
+- Rufus working behind the scenes, WRO active
 - Central crisis: Eua hunted by Children of the Calamity cult
 - Resolution: Cult defeated, Eua masters her Jenova powers
 
