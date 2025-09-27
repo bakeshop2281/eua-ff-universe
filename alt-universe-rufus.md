@@ -212,5 +212,10 @@
 - Elena and Eua develop tentative rapport through similar age/position
 - Eua can't prove it, but senses that since marrying Rufus, Tseng genuinely dislikes her, but on the surface he is still professional
 
-*Last Updated:* Sept 27 2025
-*Recent Changes:* Created
+#### Tseng's Detailed Assessment
+- **Security Concern:** Views Eua as making Rufus "human" and therefore vulnerable
+- **Professional Risks:** "Walking unescorted through crowds. Dismissing security details for 'privacy.' Allowing personal considerations to influence business decisions"
+- **Strategic Assessment:** "You have no political connections, no family wealth, no strategic alliances. What you do have is unpredictable abilities tied to one of the most dangerous entities this planet has ever known"
+- **Protective Loyalty:** Concern stems from personal care for Rufus, not just professional duty
+- **Honest Opposition:** Delivers assessment without malice but with complete candor
+- **Eua's Response:** Mature acceptance without defensiveness or attempts to change his mind
