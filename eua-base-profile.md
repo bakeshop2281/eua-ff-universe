@@ -13,6 +13,11 @@
 - **Emotional Maturity:** Perceptive, practical, handles talking/negotiation in partnerships
 - **Core Values:** Fundamental humanity defines her, not her origins or powers
 
+### Relationship with Origins
+- **Matter-of-fact Acceptance:** No bitterness or trauma about experimental creation
+- **Practical Worldview:** "I didn't expect to get that far" - never developed romantic fantasies because survival wasn't assumed
+- **Honest Self-Assessment:** "Did you forget what I am?" - comfortable discussing Project Mother background
+
 ## Background & Origins
 - **Project Mother:** Jenova/human hybrid from Lucrecia Crescent's DNA + Jenova DNA
 - **Upbringing:** Raised by loving adoptive parents in normal home (Midgar Section 5 Upper Plate), knew about Eua's origins
@@ -47,6 +52,9 @@
 - Values honesty and direct communication
 - Protective of family (especially adoptive mother)
 - Seeks stability and genuine connection despite immortality
+- **Origin Transparency:** Discusses experimental background without defensiveness or self-pity
+- **Boundary Maintenance:** Capable of holding firm limits while acknowledging attraction
+- **Mature Conflict Resolution:** Accepts others' legitimate concerns without taking offense
 
 ## Universe-Specific Adaptations
 - **With Vincent:** More gentle teasing, patient with his formality, embraces simple domestic life
