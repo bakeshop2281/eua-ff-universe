@@ -55,6 +55,12 @@
 - How characters are evolving or adapting
 - Any dialogue that reveals character growth
 
+**Repository Updates** (only include categories with actual content):
+- **Universal Character Traits** → Recommend specific section in eua-base-profile.md
+- **Universe-Specific Dynamics** → Recommend section in appropriate universe file  
+- **Location Details** → Recommend section in locations-master.md
+- **Supporting Character Insights** → Recommend best placement
+
 **Format as detailed reference material I can add to my GitHub repo. Focus on what was actually significant in our session rather than fitting into predetermined categories."**
 
 ---
