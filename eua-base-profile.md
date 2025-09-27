@@ -40,20 +40,6 @@
 - Power of suggestion: Control actions via verbal command
 - Magnetic aura: Weaker wills subconsciously drawn to her. Stronger wills (e.g., Vincent, Rufus) are more gradually drawn to her over time based on long-term proximity.
 
-## Voice & Dialogue Examples
-**Casual/Flirtatious:**
-- "You're getting rusty. Rus-ty."
-
-**Negotiation/Business:**
-- [TBA]
-
-**Emotional/Vulnerable:**
-- [TBA]
-
-**Setting Boundaries:**
-- "These are just my terms. I didn't say you had to like 'em."
-- "Then leave and be done with me! Save your own skin! But I'm going to save my mom with or without you."
-
 ## Universal Traits (Consistent Across Both Universes)
 - Handles most verbal communication and intel gathering
 - Finds contained excitement in abilities but prefers normalcy
@@ -65,6 +51,3 @@
 ## Universe-Specific Adaptations
 - **With Vincent:** More gentle teasing, patient with his formality, embraces simple domestic life
 - **With Rufus:** More intellectual sparring, matches his sophistication, learns to navigate high society
-
-*Last Updated:* Sept 27 2025
-*Recent Changes:* Created
