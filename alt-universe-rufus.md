@@ -48,6 +48,8 @@
 - **Mutual Acceptance:** Rufus has seen her worst (Jenova berserk), looks unflinchingly
 - **Practical Partnership:** Both understand they're "using" each other but honestly
 
+
+
 ## Rufus Shinra - Alt Universe Complete Profile
 
 ### Physical & Background (Universal)
@@ -59,6 +61,8 @@
 
 ### Background & History
 - **Family Legacy:** Son of former Shinra President, inherited corporate empire and its complications
+**Childhood Details:**
+- Swimming lessons at exclusive resorts with multiple private instructors
 - **Post-Meteorfall:** Actively rebuilding Shinra's power structure and influence in the shadows via indirect means (WRO funding, public persona of philanthropy)
 - **Business Philosophy:** Strategic, long-term thinking with focus on control and stability
 - **Past Relationships:** Accustomed to transactional relationships, unfamiliar with genuine emotional connection
@@ -76,6 +80,13 @@
 - **Clinical Intimacy:** Catalogs partner's responses with scientific precision ("I've learned about you...")
 - **Strategic Patience:** Works within established boundaries rather than forcing past them
 - **Confident Certainty:** Maintains unwavering belief in eventual success ("For now")
+
+### Rufus's Growth Challenges
+- **Emotional Communication Gaps:** Defaults to clinical explanations when emotionally uncomfortable, creating unintended wounds
+- **Tactical Error Recognition:** Recognizes mistakes after the fact but struggles to correct in the moment
+- **Emotional Channeling:** Redirects complex emotions into destruction of enemies rather than vulnerability with Eua
+- **Perspective Blindness:** Can forget Eua's true nature when she presents as ordinary, leading to misplaced protective instincts
+- **Capacity for Genuine Care:** Shows patience and teaching ability when his guard drops, revealing potential beyond strategy
 
 ### Shared Legacy Recognition
 - **Parallel Purposes:** Both designed for specific roles—him as Shinra heir, her as Project Mother
@@ -154,6 +165,11 @@
 - **Intellectual Sparring:** Eua matches Rufus's sophistication while maintaining humanity
 - **Public vs Private:** United front in society, genuine intimacy in private
 - **Boundary Respect:** Rufus learning Eua's limits, Eua standing firm on values
+**Communication Evolution Stages:**
+- **Early Brutal Honesty Phase:** Rufus values truth over comfort, sometimes wounds unintentionally
+- **Eua's Logical Boundaries:** Uses threat assessment and practical consequences rather than emotional appeals to establish limits
+- **Best Connection Moments:** Occur when Rufus drops calculated approach entirely (example: swimming lesson vulnerability)
+- **Dual Processing:** Both conceal emotional responses from each other while privately processing (see: gala proposition incident)
 
 ### Power Balance
 - **Public Appearance:** Rufus clearly in charge, Eua as supportive wife
@@ -173,6 +189,22 @@
 - **Boundary Respect:** Works within her rules while finding every loophole
 - **Sexual Tension Building:** Power dynamic of pursuit vs. resistance creates sustainable attraction
 - **Clinical Yet Heated:** Combines analytical observation with genuine desire
+
+## High Society Navigation Challenges
+
+### "The Arrangement" Assumption
+- **Corporate Culture:** High-powered circles commonly use girlfriends/mistresses/fiancées/occasionally wives as "incentives" for business deals
+- **Eua's Position:** Mysterious wife with no social connections/pedigree automatically assumed to be this type of arrangement
+- **Discovery Moment:** Direct proposition at charity gala, revealed widespread assumption
+- **Rufus's Failure:** Didn't warn her due to his own acclimation to these practices
+- **Ongoing Impact:** Men in their circle feel entitled to "make appointments" through Rufus; creates navigation challenge for Eua at events
+- **Emotional Cost:** Crushing revelation for Eua's hopes of being accepted in his world; represents loss of naive optimism
+
+### Eua's Adaptation Process
+- Initially unaware of how corporate world viewed her role
+- Learns through direct experience rather than preparation
+- Must maintain dignity while knowing others' assumptions about her
+- Creates tension between her self-perception and others' projections
 
 ## Key Scene Ideas for Writing
 
