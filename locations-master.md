@@ -92,6 +92,12 @@
 - Represents normalcy and simple pleasures
 - Contrast to high-stakes crisis situations
 
+**Alt Universe Details**
+- **Private Cove:** Secured through Rufus's connections, stone platforms with turquoise water clear enough to see bottom 15 feet down
+- **Access:** Deep water requiring diving/jumping rather than wading
+- **Characteristics:** Warm water that holds sun's heat, protected from currents
+- **Story Context:** Site of swimming lesson during monogamy trial period - breakthrough moment showing Rufus's capacity for genuine teaching/care without agenda
+
 ### Corel/North Corel
 **Canon Details:**
 - Barret's destroyed hometown
