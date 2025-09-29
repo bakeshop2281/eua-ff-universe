@@ -58,6 +58,86 @@
 - Dry closing: "For what it's worth, Tseng—I'm sorry I bewitched your boss."
 - **Tseng's almost-smile:** "So am I, Mrs. Shinra. So am I."
 
+### Costa del Sol Swimming Lesson - Finding Genuine Connection
+**Setting:** Private cove, late afternoon, stone platforms overlooking turquoise water
+
+**Emotional Context:** Monogamy trial period - testing exclusive relationship, both learning to drop calculated defenses
+
+**Key Dialogue Examples:**
+- **Eua admitting limitation:** "I can't swim." [matter-of-fact, no shame]
+- **Rufus offering vulnerability:** "I was terrified of putting my face underwater for months. Had to have three different instructors before one finally convinced me I wouldn't drown instantly."
+- **Their banter:** 
+  - *Eua:* "Did you think I emerged from the womb knowing how to execute perfect dives?"
+  - *Rufus:* "Yes, actually. Along with hostile takeovers and wine selection."
+- **Rufus's genuine moment:** "I know you think everything I do has an ulterior motive. And you're not wrong, most of the time. But I want you to learn this. For you, not for me."
+- **Eua's cautious response:** "Careful, Rufus. Comments like that might make me think you actually care about my wellbeing."
+- **Rufus's vulnerable question:** "Would that be so terrible?"
+
+**Relationship Beat:** Shift from seduction/strategy to genuine teaching and mutual vulnerability; Rufus shows capacity for patience and care beyond tactical advantage
+
+---
+
+### The Monogamy Argument - Establishing Boundaries
+**Setting:** Penthouse study, late evening, tense negotiation
+
+**Emotional Context:** Pre-trial period, fundamental disagreement about relationship structure, power struggle
+
+**Key Dialogue Examples:**
+- **Rufus's mockery:** "How many people have you been with, anyway?" [*Eua: "Two."*] "And you think someone with such limited experience is worth exclusivity?"
+- **Eua's logical threat assessment:** "Let me walk you through a scenario. You get what you want - me in your bed, other women whenever the mood strikes. I'd try to keep things compartmentalized, but feelings develop. That's biology, not choice. [...] Do you really want to test whether someone with lethal DNA injection capabilities can maintain perfect emotional control in that moment?"
+- **Eua reframing violence:** "A simple kiss would do it. Mucus membrane contact. Very intimate. Very final."
+- **Rufus:** "Are you threatening me?" 
+- **Eua:** "I'm explaining practical limitations."
+- **Vincent mention:** "If I possessed the ability to compel men to love me, Rufus, I wouldn't have needed to marry you." [delivered without self-pity, just fact]
+
+**Character Insight:** Eua uses logic and consequence rather than emotional appeals; establishes boundaries through threat assessment not ultimatums; references past pain matter-of-factly
+
+---
+
+### Train Incident - Forgetting What She Is
+**Setting:** Penthouse living room, early evening, domestic moment
+
+**Emotional Context:** Rufus momentarily treating Eua as normal woman needing protection; role reversal revealing his blind spots
+
+**Key Dialogue Examples:**
+- **Rufus to Reno:** "You took the train? And you *let* her?"
+- **The practical question:** *Eua:* "Should I get a driver's license?" *Rufus:* "No. Absolutely not."
+- **Eua's puzzlement:** "What risks?" [genuinely doesn't understand what he's worried about]
+
+**Character Insight:** Rufus forgets Eua is more dangerous than any public transit threat; domestic routine makes him see "ordinary wife" rather than Jenova hybrid; Eua completely unaware she could be viewed as vulnerable target
+
+---
+
+### Gala Proposition - Dual POV Scene
+
+#### Eua's Experience
+**Setting:** Charity gala → car ride → guest bathroom
+
+**Emotional Beats:**
+- Complete shock at proposition, mind going blank
+- Realization cascade: "He's not an anomaly, is he? Everyone at that event—everyone in your world—they think that's what I am."
+- Recognition she can't be angry at Rufus (he never promised protection from assumptions)
+- Careful control to avoid crying in front of him
+- Private breakdown
+
+**Key Dialogue:**
+- **Businessman:** "Don't play coy. It doesn't suit you. Rufus Shinra marrying a beautiful mystery woman that no one in our circles knows? We all understand what that means."
+- **Eua's realization:** "Are you expecting me to—" 
+- **Rufus:** "No. If those were the terms of our arrangement, that would have been explicitly outlined in the prenuptial agreement. I don't need to leverage my wife's body to close business deals."
+
+#### Rufus's Experience
+**Same scene, his internal processing:**
+
+**Emotional Beats:**
+- Immediate shift to tactical assessment: contract termination, political pressure points
+- Understanding his mistake: "Should have prepared her for this"
+- Channels guilt/anger into systematically destroying the businessman
+- Avoids examining why her too-still posture bothers him so much
+- Final thought: "It wasn't enough. But it was what he had."
+
+**Character Insight:** Both conceal emotional responses from each other; Rufus recognizes failures but struggles to articulate alternatives; defaults to destruction when vulnerability is required
+
+
 ### Character Voice Examples
 
 **Rufus - Seduction Mode:**
@@ -75,6 +155,23 @@
 **Tseng - Professional Protectiveness:**
 - "I see you as a threat to his judgment. And in our world, compromised judgment gets people killed."
 - "I was present during your... episode with the cult. I've seen what happens when you lose control."
+
+**Rufus - Vulnerable/Genuine:**
+- "I know you think everything I do has an ulterior motive. And you're not wrong, most of the time. But I want you to learn this. For you, not for me."
+
+**Rufus - Clinical/Tactical (causes unintended wounds):**
+- "I don't need to leverage my wife's body to close business deals." [reveals wrong priorities in reassurance]
+
+**Eua - Practical Threat Assessment:**
+- "Let me walk you through a scenario..."
+- "A simple kiss would do it. Mucus membrane contact. Very intimate. Very final."
+
+**Eua - Vulnerability Without Shame:**
+- "If I possessed the ability to compel men to love me, Rufus, I wouldn't have needed to marry you."
+
+**Eua - Deflecting with Practicality:**
+- "Should I get a driver's license?" [genuine question mid-lecture]
+
 
 ---
 
