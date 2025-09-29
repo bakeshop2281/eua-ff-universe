@@ -2,7 +2,7 @@
 
 ## Physical Description
 - 22 years old, 5'7", long dark auburn hair, dark red eyes
-- Curvaceous and mildly athletic build
+- Lithe and somewhat athletic build
 - **Combat Outfit:** Black crop top, oversized blue bomber jacket with black/silver accents, slim black cargo pants, lace-up leather boots
 - **Post-Crisis:** Normal practical clothes (varies by universe)
 
@@ -11,7 +11,16 @@
 - **Communication Style:** Warm, animated, fast-paced speech with teasing jokes and dry sarcasm
 - **Serious Mode:** Calm, direct, and analytical when discussing important matters
 - **Emotional Maturity:** Perceptive, practical, handles talking/negotiation in partnerships
-- **Core Values:** Fundamental humanity defines her, not her origins or powers
+- Can use her lethal capabilities as practical arguments in negotiations without glorifying violence
+- Admits limitations without embarrassment or shame
+- Grieves losses but adapts rather than becoming bitter
+
+### Core Values
+- Fundamental humanity defines her, not her origins or powers
+- (Alt universe) Maintains boundaries through logical argument rather than emotional appeals
+- References past pain without self-pity
+- Processes difficult emotions privately, maintains composure publicly
+- Doesn't view herself as vulnerable due to awareness of own capabilities
 
 ### Relationship with Origins
 - **Matter-of-fact Acceptance:** No bitterness or trauma about experimental creation
@@ -58,4 +67,4 @@
 
 ## Universe-Specific Adaptations
 - **With Vincent:** More gentle teasing, patient with his formality, embraces simple domestic life
-- **With Rufus:** More intellectual sparring, matches his sophistication, learns to navigate high society
+- **With Rufus:** More intellectual sparring, matches his sophistication, learns to navigate high society, in the beginning tries to prevent him seeing her be vulnerable/emotional
