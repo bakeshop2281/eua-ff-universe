@@ -36,7 +36,13 @@
 
 ## Family
 - **Vesta Marlow:** Adoptive mother in Kalm, younger sister of Lucrecia Crescent, makes almond cookies, knows Vincent
-- **Mr. Marlow:** (Deceased) Former Shinra accountant in Reeve's division, adopted Eua via Reeve's suggestion, boisterous and extremely loving to family
+- **Mr. Marlow:** (Eua's adoptive father)(Deceased)
+- Former Shinra accountant for 26 years in Reeve's division
+- Boisterous, laughed at his own jokes, loved Vesta/Eua openly
+- Never brought Shinra work home, treated Eua like regular kid
+- Knew Eua was created for specific purpose and was owned by Shinra, still talked about her future as though it could happen: university, chosen career, finding love
+- Died from lifelong respiratory illness one week before Meteor hit
+- Adoption facilitated by Reeve's recommendation to childless couple
 
 ## Powers & Combat
 ### Weapons & Fighting Style
@@ -49,6 +55,7 @@
 - Mimicry: Complex physical action replication after single observation
 - DNA injection: Insert DNA through wounds/mucus membranes causing death
 - Memory reading: Via skin to skin contact, can read a person's memories as long as they can remember them.
+- Immune to Alcohol: Unable to get drunk, dislikes the taste of alcohol
 
 **Post-Mental Block Removal:**
 - Power of suggestion: Control actions via verbal command
